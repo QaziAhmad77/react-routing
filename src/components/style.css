@@ -1,3 +1,16 @@
 .active {
   color: lightblue;
 }
+li {
+  font-size: 30px;
+}
+a {
+  font-size: 40px;
+}
+button {
+  font-size: 50px;
+  margin: 5px;
+  padding: 5px;
+  background-color: bisque;
+  border-radius: 30px;
+}
